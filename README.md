@@ -1,5 +1,6 @@
 # Pagination
 This class has written for building advanced and beautiful pagination output.
+
 You can easily build your structure with just 2 lines.
 
 For Example:

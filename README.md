@@ -14,3 +14,14 @@ echo $output;
 ![alt text](http://ozanakman.com.tr/github/pagination-example.png "Pagination Example")
 
 Please check example.php file for more information.
+
+## Installation
+
+**Via composer:** composer require sythdev/pagination
+
+**Manual:**
+[Download Pagination Class](https://github.com/sythdev/pagination/archive/master.zip) 
+Then use "require" or "include" like this
+```php
+require 'src/Pagination.php';
+```

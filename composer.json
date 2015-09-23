@@ -1,5 +1,5 @@
 {
-  "name": "sythdev/Pagination",
+  "name": "sythdev/pagination",
   "type": "library",
   "description": "Library for building advanced and beautiful pagination output.",
   "keywords": ["pagination","advanced pagination"],

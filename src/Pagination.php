@@ -29,7 +29,6 @@ class Pagination{
     public $limit;
     public $output;
     public $per;
-    public $query;
 
     /**
      * @param $rows
